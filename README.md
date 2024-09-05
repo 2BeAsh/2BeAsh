@@ -1,4 +1,5 @@
-## Hi there 👋
+# Unga Bunga code
+_Noun_ Code written like a caveman would. Nothing fancy, no optimization etc. 
 
 <!--
 **2BeAsh/2BeAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
