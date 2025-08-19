@@ -1,5 +1,8 @@
-# Unga Bunga code
-_Noun_ Code written like a caveman would. Nothing fancy, no optimization etc. 
+# Computational Physicist
+Recent Master’s graduate in Computational Physics with expertise in Python, machine learning, and interdisciplinary modelling. Passionate about applying computational techniques to real-world scientific and AI-driven problems.
+
+## What you'll find here
+You'll find different things on my page, everything from my one-year-long master's thesis, course notes, to small hobby projects.
 
 <!--
 **2BeAsh/2BeAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
